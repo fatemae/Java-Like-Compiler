@@ -1,0 +1,16 @@
+I have completed my project for including the functionality of classes in lexing, parsing and typechecking phases of compiler.
+
+The functionality of Classes that I have included are as follows :
+-Variable and Functions should be enclosed in a Class like java
+-Variable should be defined before functions in classes.
+-I have included the functionality to typecheck the arguments of function during call
+-Functions will always have a return type.
+-Check for the type of returned value and returntype of function.
+-Constructors can be created in classes.
+-Constructors can be overloaded
+-Can create objects of predefined class in a file.
+-Check for correspoding object constructor during object creation.
+-Access the global variable of a class using its object(Checks variable type)
+-Access to functions of a class using its object(checks function arg and return type) 
+
+I have added some testcases to test these functionality
